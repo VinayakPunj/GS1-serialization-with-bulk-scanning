@@ -1,0 +1,1 @@
+# gs1-serialization-with-bulk-scanning
